@@ -1,0 +1,6 @@
+Page: A, Page Rank: 0.252036376028172
+Page: E, Page Rank: 0.187106610142917
+Page: F, Page Rank: 0.151293765934751
+Page: C, Page Rank: 0.151293765934751
+Page: B, Page Rank: 0.139306509182511
+Page: D, Page Rank: 0.118962972776899

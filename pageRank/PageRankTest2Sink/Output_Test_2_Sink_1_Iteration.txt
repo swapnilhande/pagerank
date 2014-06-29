@@ -1,0 +1,13 @@
+#------------------------------------------------------------------------------
+# Name: 	Swapnil Hande
+# Project:	Page Ranking implementation
+# Type:		Test file with 2 sink nodes 1 iteration
+# ------------------------------------------------------------------------------
+Page: E	PageRank: 0.181666666666667
+Page: A	PageRank: 0.155104166666667
+Page: G	PageRank: 0.14625
+Page: D	PageRank: 0.125
+Page: F	PageRank: 0.1196875
+Page: C	PageRank: 0.1196875
+Page: B	PageRank: 0.107291666666667
+Page: H	PageRank: 0.0453125

@@ -1,0 +1,55 @@
+#------------------------------------------------------------------------------
+# Name: 	Swapnil Hande
+# Project:	Page Ranking implementation
+# Type:		Top 50 Page Inlinks Sorted
+# ------------------------------------------------------------------------------
+1. Page: WT21-B37-76	Inlink Count: 2568
+2. Page: WT18-B29-37	Inlink Count: 2269
+3. Page: WT01-B18-225	Inlink Count: 2260
+4. Page: WT23-B27-29	Inlink Count: 1940
+5. Page: WT21-B37-75	Inlink Count: 1704
+6. Page: WT27-B34-57	Inlink Count: 1257
+7. Page: WT27-B32-30	Inlink Count: 1255
+8. Page: WT08-B19-222	Inlink Count: 1041
+9. Page: WT08-B18-400	Inlink Count: 1011
+10. Page: WT10-B36-88	Inlink Count: 946
+11. Page: WT10-B36-90	Inlink Count: 943
+12. Page: WT10-B36-103	Inlink Count: 939
+13. Page: WT10-B36-89	Inlink Count: 896
+14. Page: WT21-B40-447	Inlink Count: 779
+15. Page: WT18-B28-345	Inlink Count: 728
+16. Page: WT12-B40-248	Inlink Count: 686
+17. Page: WT24-B26-2	Inlink Count: 625
+18. Page: WT25-B15-307	Inlink Count: 614
+19. Page: WT27-B28-203	Inlink Count: 598
+20. Page: WT18-B40-82	Inlink Count: 576
+21. Page: WT21-B37-71	Inlink Count: 560
+22. Page: WT22-B38-403	Inlink Count: 544
+23. Page: WT08-B01-173	Inlink Count: 539
+24. Page: WT13-B15-160	Inlink Count: 484
+25. Page: WT23-B30-88	Inlink Count: 478
+26. Page: WT18-B29-36	Inlink Count: 477
+27. Page: WT27-B28-177	Inlink Count: 470
+28. Page: WT13-B06-273	Inlink Count: 454
+29. Page: WT13-B06-284	Inlink Count: 454
+30. Page: WT07-B02-55	Inlink Count: 449
+31. Page: WT13-B39-295	Inlink Count: 443
+32. Page: WT17-B34-499	Inlink Count: 442
+33. Page: WT17-B34-500	Inlink Count: 436
+34. Page: WT24-B04-192	Inlink Count: 430
+35. Page: WT14-B36-337	Inlink Count: 417
+36. Page: WT17-B34-505	Inlink Count: 410
+37. Page: WT10-B33-300	Inlink Count: 409
+38. Page: WT23-B19-156	Inlink Count: 406
+39. Page: WT23-B31-215	Inlink Count: 402
+40. Page: WT17-B34-503	Inlink Count: 402
+41. Page: WT23-B23-51	Inlink Count: 400
+42. Page: WT08-B11-28	Inlink Count: 396
+43. Page: WT23-B12-215	Inlink Count: 388
+44. Page: WT23-B01-107	Inlink Count: 384
+45. Page: WT23-B30-105	Inlink Count: 380
+46. Page: WT17-B34-506	Inlink Count: 376
+47. Page: WT17-B34-504	Inlink Count: 374
+48. Page: WT17-B34-498	Inlink Count: 374
+49. Page: WT14-B36-323	Inlink Count: 373
+50. Page: WT07-B23-234	Inlink Count: 371
